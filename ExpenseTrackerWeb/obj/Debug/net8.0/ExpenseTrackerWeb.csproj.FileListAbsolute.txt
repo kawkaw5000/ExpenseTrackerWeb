@@ -235,6 +235,7 @@ D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\ExpenseTrackerWeb.MvcApplicationPartsAssemblyInfo.cache
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\ExpenseTrackerWeb.RazorAssemblyInfo.cache
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\ExpenseTrackerWeb.RazorAssemblyInfo.cs
+D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\ExpenseTrackerWeb.sourcelink.json
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\staticwebassets.build.json
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\staticwebassets.development.json
 D:\!!!-A-BACKUP\ExpenseTracker\ExpenseTrackerWeb\ExpenseTrackerWeb\obj\Debug\net8.0\staticwebassets\msbuild.ExpenseTrackerWeb.Microsoft.AspNetCore.StaticWebAssets.props

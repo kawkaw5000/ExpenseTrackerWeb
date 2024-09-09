@@ -19,6 +19,9 @@ public partial class User
     public string? Password { get; set; }
 
     [StringLength(252)]
+    public string? ConfirmPassword { get; set; }
+
+    [StringLength(252)]
     public string? Email { get; set; }
 
     [StringLength(255)]
@@ -31,6 +34,8 @@ public partial class User
 
     [Column(TypeName = "datetime")]
     public DateTime? DateModified { get; set; }
+
+    public bool Agree { get; set; }
 
     [InverseProperty("User")]
     public virtual ICollection<Category> Categories { get; set; } = new List<Category>();

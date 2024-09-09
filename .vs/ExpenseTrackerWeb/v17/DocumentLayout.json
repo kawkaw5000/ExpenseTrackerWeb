@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\repository\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\repository\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\wwwroot\\css\\landingpheader.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\wwwroot\\css\\landingpheader.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\models\\custommodels\\customusermodelforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\models\\custommodels\\customusermodelforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\rolesindbauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\rolesindbauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\views\\shared\\_landingpagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\views\\shared\\_landingpagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\views\\home\\expensetracker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\views\\home\\expensetracker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\wwwroot\\css\\errormodal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\wwwroot\\css\\errormodal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|d:\\!!!-a-backup\\expensetracker\\expensetrackerweb\\expensetrackerweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3454F4B7-8023-4521-B0A4-1E1D6DB5CD27}|ExpenseTrackerWeb\\ExpenseTrackerWeb.csproj|solutionrelative:expensetrackerweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Repository\\UserManager.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Repository\\UserManager.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Repository\\UserManager.cs",
-              "RelativeToolTip": "ExpenseTrackerWeb\\Repository\\UserManager.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:52:55.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RolesInDBAuthorizationHandler.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\RolesInDBAuthorizationHandler.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\RolesInDBAuthorizationHandler.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\RolesInDBAuthorizationHandler.cs",
-              "RelativeToolTip": "ExpenseTrackerWeb\\RolesInDBAuthorizationHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:52:25.268Z",
+              "Title": "landingPheader.css",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\landingPheader.css",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\wwwroot\\css\\landingPheader.css",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\landingPheader.css",
+              "RelativeToolTip": "ExpenseTrackerWeb\\wwwroot\\css\\landingPheader.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T08:00:47.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomUserModelForLogIn.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
-              "RelativeToolTip": "ExpenseTrackerWeb\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:46:46.735Z",
+              "Title": "_LandingPageLayout.cshtml",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Shared\\_LandingPageLayout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Views\\Shared\\_LandingPageLayout.cshtml",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Shared\\_LandingPageLayout.cshtml",
+              "RelativeToolTip": "ExpenseTrackerWeb\\Views\\Shared\\_LandingPageLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:43:14.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\appsettings.json",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\appsettings.json",
-              "RelativeToolTip": "ExpenseTrackerWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T03:37:16.146Z",
+              "DocumentIndex": 4,
+              "Title": "ExpenseTracker.cshtml",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Home\\ExpenseTracker.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Views\\Home\\ExpenseTracker.cshtml",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Home\\ExpenseTracker.cshtml",
+              "RelativeToolTip": "ExpenseTrackerWeb\\Views\\Home\\ExpenseTracker.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:40:21.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ExpenseTrackerWeb\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T02:34:23.296Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTrackerWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:02:21.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ExpenseTrackerWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:39:26.65Z",
+              "WhenOpened": "2024-09-09T07:37:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Program.cs",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Program.cs",
+              "RelativeToolTip": "ExpenseTrackerWeb\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:36:03.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": ".filenesting.json",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\.filenesting.json",
-              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\.filenesting.json",
-              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\.filenesting.json",
-              "RelativeToolTip": "ExpenseTrackerWeb\\.filenesting.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T03:37:18.449Z",
+              "Title": "errorModal.css",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\errorModal.css",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\wwwroot\\css\\errorModal.css",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\errorModal.css",
+              "RelativeToolTip": "ExpenseTrackerWeb\\wwwroot\\css\\errorModal.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T06:54:19.802Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerWeb\\Models\\User.cs",
+              "ToolTip": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\Models\\User.cs",
+              "RelativeToolTip": "ExpenseTrackerWeb\\Models\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:33:13.972Z"
             }
           ]
         }

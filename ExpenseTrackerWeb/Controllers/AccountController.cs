@@ -22,14 +22,23 @@ namespace ExpenseTrackerWeb.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(CustomUserModelForLogIn user)
+        public async Task<IActionResult> Login(User user)
         {
             var userObj = _db.Users.Where(model => (model.Username == user.Username || model.Username == user.Username)).FirstOrDefault();
 
+            if (userObj == null)
+            {
+                ViewData["ErrorMessage"] = "Incorrect Password or User does not exist.";
+                return View(user);
+            }
+
             if (user.Password != userObj.Password)
             {
-                return View();
+                ViewData["ErrorMessage"] = "Incorrect Password or User does not exist.";
+                return View(user);
             }
+
+            ViewData["ErrorMessage"] = null;
 
             List<Claim> claims = new List<Claim>()
             {
@@ -74,7 +83,7 @@ namespace ExpenseTrackerWeb.Controllers
                 return View(u);
             }
             TempData["Username"] = u.Username;
-            return RedirectToAction("");
+            return RedirectToAction("Login");
         }
 
         public IActionResult Update()

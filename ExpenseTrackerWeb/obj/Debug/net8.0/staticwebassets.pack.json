@@ -5,12 +5,108 @@
       "PackagePath": "staticwebassets\\ExpenseTrackerWeb.bundle.scp.css"
     },
     {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\errorModal.css",
+      "PackagePath": "staticwebassets\\css\\errorModal.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\landingPheader.css",
+      "PackagePath": "staticwebassets\\css\\landingPheader.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\landingSidebar.css",
+      "PackagePath": "staticwebassets\\css\\landingSidebar.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
       "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\ETlogo.svg",
+      "PackagePath": "staticwebassets\\images\\ETlogo.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\backgroundImage\\squares.svg",
+      "PackagePath": "staticwebassets\\images\\backgroundImage\\squares.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\RegisterPage.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\RegisterPage.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\close.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\close.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\email.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\email.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\openEye.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\openEye.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\password.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\password.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\user.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\user.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\loginImg\\warning.svg",
+      "PackagePath": "staticwebassets\\images\\loginImg\\warning.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\sidebarImg\\ask-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\images\\sidebarImg\\ask-svgrepo-com.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\sidebarImg\\charm_menu-hamburger.svg",
+      "PackagePath": "staticwebassets\\images\\sidebarImg\\charm_menu-hamburger.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\sidebarImg\\fluent_people-team-20-filled.svg",
+      "PackagePath": "staticwebassets\\images\\sidebarImg\\fluent_people-team-20-filled.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\images\\sidebarImg\\mdi_home.svg",
+      "PackagePath": "staticwebassets\\images\\sidebarImg\\mdi_home.svg"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\js\\errorModal.js",
+      "PackagePath": "staticwebassets\\js\\errorModal.js"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\js\\sidebar.js",
+      "PackagePath": "staticwebassets\\js\\sidebar.js"
     },
     {
       "Id": "D:\\!!!-A-BACKUP\\ExpenseTracker\\ExpenseTrackerWeb\\ExpenseTrackerWeb\\wwwroot\\js\\site.js",

@@ -6,9 +6,17 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace ExpenseTrackerWeb.Controllers
 {
- 
     public class HomeController : BaseController
     {
+        public IActionResult ExpenseTracker()
+        {
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("Dashboard", "Home");
+            }
+            return View();
+        }
+
         [Authorize]
         public IActionResult Dashboard()
         {
@@ -17,4 +25,6 @@ namespace ExpenseTrackerWeb.Controllers
         }
 
     }
+
+
 }

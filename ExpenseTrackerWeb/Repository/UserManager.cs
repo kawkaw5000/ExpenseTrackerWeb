@@ -36,6 +36,7 @@ namespace ExpenseTrackerWeb.Repository
             u.Code = Utilities.code.ToString();
             u.CreatedDate = DateTime.Now;
             u.Status = (Int32)Status.InActive;
+            u.Agree = true;
 
             if(GetUserByUsername(u.Username) != null)
             {
